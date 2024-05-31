@@ -1,0 +1,35 @@
+.taskName{
+    padding: 20px 0px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.actions{
+    padding: 20px 0px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonField{
+    font-size: 20px;
+    color: black;
+}
+
+.done {
+    background-color: rgb(15, 255, 80);
+    color: black;
+}
+.working {
+    background-color: rgb(243, 255, 15);
+    color: black;
+}
+.pause {
+    background-color:green;
+    color: white;
+}
+
+.itemsDiv{
+    margin: 10px;
+}
